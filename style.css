@@ -1,0 +1,22 @@
+
+.main {
+    margin: auto;
+    width: 620px;
+   
+    
+}
+
+.row {
+    display: flex;
+    margin: 10px;
+    width: 600px;
+    height: 200px;
+
+}
+
+.item {
+    margin: 10px;
+    width: 180px;
+    height: 180px;
+    background-color: red;
+}
