@@ -24,3 +24,8 @@ img {
     height: 180px;
     background-color: red;
 }
+
+.detail-image{
+    margin: auto;
+    background-color: blue;
+}
